@@ -19,7 +19,7 @@ java -jar com.sohlman.serialtest-0.0.1-SNAPSHOT.jar write noid NoIdPerson.ser My
 ### Serialize object with serialVersionUID
 
 ```
-java -jar com.sohlman.serialtest-0.0.1-SNAPSHOT.jar write noid NoIdPerson.ser My Name
+java -jar com.sohlman.serialtest-0.0.1-SNAPSHOT.jar write id IdPerson.ser My Name
 ```
 
 ### Deseriazile object and print the value
